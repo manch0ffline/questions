@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/questions/static/css/main.d621586d.css",
+    "main.js": "/questions/static/js/main.99ac514a.js",
+    "static/media/bgi.png": "/questions/static/media/bgi.361674fa62799097f9ea.png",
+    "index.html": "/questions/index.html",
+    "main.d621586d.css.map": "/questions/static/css/main.d621586d.css.map",
+    "main.99ac514a.js.map": "/questions/static/js/main.99ac514a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d621586d.css",
+    "static/js/main.99ac514a.js"
+  ]
+}
